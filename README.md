@@ -1,6 +1,10 @@
 # Local-links-to-5G-s-distant
 <br>Установка:</br>
-<code>1.Перейти по chrome://extensions/</code>
-<code>2.Включить режим разработчика</code>
-<code>3.Скачать само расширение</code>
-<code>4.Загрузить распакованное расширение</code>
+<code>1.Перейти по chrome://extensions/</code><br>
+<img href=/imgs/1.png><br>
+<code>2.Включить режим разработчика</code><br>
+<img href=/imgs/2.png><br>
+<code>3.Скачать само расширение</code><br>
+<img href=/imgs/3.png><br>
+<code>4.Загрузить распакованное расширение</code><br>
+<img href=/imgs/4.png><br>
